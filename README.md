@@ -1,2 +1,5 @@
 # hello-world
-First one learning.
+
+Hi everyone!
+
+I'm Charisma, and I'm to learn something new. :)
